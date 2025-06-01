@@ -1,0 +1,219 @@
+h1 {
+   font-size: 44px;
+}
+
+a {
+  background-color: white;
+  text-decoration: none;
+
+}
+
+.vidi-vise {
+    text-align: right;
+    width: 200px;
+    height: 100px;
+    color: white;
+    background-color: coral;
+    font-size: 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.vidi-vise:hover {
+    background-color: orangered;
+}
+
+.navigacija {
+    display:block;
+    overflow: hidden;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 10px;
+    list-style-type: none;
+    float:right;
+}
+
+.navigacija a{
+    display: block;
+    font-size: 20px;
+    color: orangered;
+    padding: 5px;
+    text-decoration: none;
+    height: 30px;
+    float: right;
+    width: 200px;
+    background-color: coral;
+    text-align: center;
+  
+}
+.navigacija a:hover {
+    background-color: orange;
+}
+
+.zaglavlje {
+  background-image: url("Slike/logo2.jpg");
+    background-size: cover;
+    height: 800px;
+}
+.providno {
+   opacity: 0.5;
+   position: fixed;
+   top: 10px;
+   left: 10px;
+}
+
+.mileta-since {
+    color: white;
+    text-align: left;
+    margin-left: 0;
+
+}
+
+h1, .vidi-vise, .mileta-since, .navigacija a {
+    color: white;
+}
+
+.vole {
+    color: coral;
+}
+
+.ponuda {
+    background-image: url(Slike/bakery.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.nekad {
+    background-image: url(Slike/nekad.jpg);
+    display: inline-block;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 10%;
+    text-align: center;
+    color: white;
+}
+.pitanje {
+    background-image: url(Slike/logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    height: 200px;
+    width: 100%;
+    background-color: chocolate;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 10%;
+}
+
+.okvir-naslova {
+    text-align: left;
+    margin-right: 50%;
+    margin-left: 15%;
+    padding-bottom: 10%;
+
+}
+
+.toplo,.sveze,.brzo {
+    display: inline-block;
+    width: 300px;
+    text-align: center;
+} 
+
+.pecivo {
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 20%;
+    margin-bottom: 3%;
+    
+}
+
+.okvir-peciva {
+    display: inline-block;
+    width: 700px;
+    
+}
+
+.text-ponude {
+ display: inline-block;
+    width: 100px;
+}
+
+
+.kontakt-mail {
+    display: inline-block;
+    border: 5px solid white;
+    width: 200px;
+    height: 20px;
+    background-color: orangered;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+}
+.kontakt-mail:hover {
+    background-color: orange;
+}
+
+.textmileta {
+    text-align: center;
+    max-width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.tsb {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    text-align: center;
+    display: inline-block;
+}
+.nav {
+    position: fixed;
+
+}
+
+.kontaktirajtenas {
+    text-decoration: none;
+    display: inline;
+    background-color: aliceblue;
+    overflow: hidden;
+    max-width: 100%;
+    color: chocolate;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: chocolate;
+
+}
+.centar {
+    text-align: center;
+    color: coral
+}
+.centar a {
+    color: chocolate;
+}
+.ikonice {
+    text-align: center;
+    color: chocolate;
+    margin-bottom: 50px;
+}
+
+.futer {
+    text-align: center;
+}
